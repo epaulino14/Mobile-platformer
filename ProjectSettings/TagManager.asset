@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - coin
+  - Powerup_Bullet
+  - Breakable
+  - PlayerHead
+  - Fragment
+  - Water
+  - PlayerFeet
+  - Platform
+  - PlayerStuck
+  - Enemy
+  - RewardCoin
+  - EnemyHead
+  - LevelOneBoss
+  - PlayerBullet
+  - BossKey
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Collectible
+  - Enemies
+  - Players
+  - Fragments
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 992376963
+    locked: 0
+  - name: Foreground
+    uniqueID: 2702726619
+    locked: 0
+  - name: UI
+    uniqueID: 2995626581
+    locked: 0
